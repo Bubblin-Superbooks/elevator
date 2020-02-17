@@ -1,0 +1,15 @@
+body {
+  background-color: #8066ff;/*
+  background: repeating-linear-gradient(45deg, #2b2b2b 0%, #2b2b2b 10%, #222222 0%, #222222 50%) 0 / 15px 15px; */
+  color: white; 
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 16vw;
+	line-height: 16vw;
+}
+
+h1 a { 
+	color: pink;
+} 
