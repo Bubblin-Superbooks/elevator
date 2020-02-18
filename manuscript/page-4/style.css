@@ -1,4 +1,7 @@
 body {
-  background-color: #16A085;
-  color: white;  
+  background-color: #8066ff;
+  color: white;
+  background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/green.jpg);
+  background-size: 200% 100%;
+  background-position: center left; 
 }
