@@ -1,22 +1,21 @@
 {
-  "name": "Elevator Pitch",
+  "name": "Bubblin Elevator Pitch",
   "type": "text",
   "has_page_numbers": false,
   "cover": {
-    "punchline": "",
+    "punchline": "The slide deck for Bubblin Superbooks",
     "toc": "",
     "author_detail": "",
     "colophon": "",
     "synopsis": ""
   },
-  "status": "draft",
+  "status": "published",
   "asset_url": "",
-  "book_url": "https://bubblin.io/book/elevator-pitch-by-sonica-arora",
+  "book_url": "",
   "mode": {
     "HTML": "html",
     "CSS": "css",
     "JS": "js",
     "HEAD": "html"
-  },
-  "book_id": 1334
+  }
 }
