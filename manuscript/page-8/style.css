@@ -1,22 +1,28 @@
 body {
   background-color: #8066ff;
   color: white;
-  background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/ipad.png);
-  background-size: 200% 100%;
-  background-position: center left; 
 }
 
 
+.ipad {
+  background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/ipad.png);
+  background-size: 100% 100%;
+  width: 90vw;
+  height: calc(90vw * 1443/2230);
+  position: relative;
+  background-color: inherit;
+}
+
 .demo {
 	position: absolute;
-    top: 14vw;
-    left: 30vw;
-    width: 100vw;
-    height: 86vw;
-    border: 0px none; 
+    top: 3.7vw;
+    left: 8.2vw;
+    width: 73.5vw;
+    height: calc(78.5vw * 1443/2228);
+    border: 0px none;
     contain: strict;
     will-change: content;
     -webkit-transform: translateZ(0);
     transform: translateZ(0);
-    -webkit-overflow-scrolling: touch; 
+    -webkit-overflow-scrolling: touch;
 }
