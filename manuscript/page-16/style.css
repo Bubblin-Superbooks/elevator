@@ -4,6 +4,22 @@ body {
 }
 
 
-a { 
-	color: pink;  
+h2 { 
+ 	color: pink; 
 } 
+
+ol li a {
+	color: pink; 
+}
+
+
+ol li a:focus,
+a:active,
+a:hover {
+  outline: 0 none;
+  color: #fff;
+}
+
+hr {
+	color: pink; 	
+}
