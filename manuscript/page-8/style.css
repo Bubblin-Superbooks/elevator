@@ -7,7 +7,6 @@ body {
 
 }
 
-
 .ipad {
   background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/ipad.png);
   background-size: 100% 100%;
@@ -18,15 +17,15 @@ body {
 }
 
 .demo {
-	position: absolute;
-    top: 3.7vw;
-    left: 8.2vw;
-    width: 73.5vw;
-    height: calc(78.5vw * 1443/2228);
-    border: 0px none;
-    contain: strict;
-    will-change: content;
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
-    -webkit-overflow-scrolling: touch;
+  position: absolute;
+  top: 10.3vw;
+  left: 5.5vw;
+  width: 78.9vw;
+  height: calc(74vw * 1443/1115);
+  border: 0px none;
+  contain: strict;
+  will-change: content;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  -webkit-overflow-scrolling: touch;
 }
