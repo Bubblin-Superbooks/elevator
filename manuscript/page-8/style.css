@@ -12,7 +12,7 @@ body {
   background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/ipad.png);
   background-size: 100% 100%;
   width: 90vw;
-  height: calc(90vw * 1443/2230);
+  height: calc(90vw * 1443/1115);
   position: relative;
   background-color: inherit;
 }
