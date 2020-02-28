@@ -11,17 +11,17 @@ body {
   background-image: url(https://raw.githubusercontent.com/marvindanig/elevator/master/assets/images/ipad.png);
   background-size: 100% 100%;
   width: 90vw;
-  height: calc(90vw * 1443/1115);
+  height: calc(85vw * 1443/1115);
   position: relative;
   background-color: inherit;
 }
 
 .demo {
   position: absolute;
-  top: 10.3vw;
+  top: 10.2vw;
   left: 5.5vw;
-  width: 78.9vw;
-  height: calc(74vw * 1443/1115);
+  width: 78.5vw;
+  height: calc(69.5vw * 1443/1115);
   border: 0px none;
   contain: strict;
   will-change: content;
