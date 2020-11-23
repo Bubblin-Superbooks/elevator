@@ -18,12 +18,12 @@
   },
   "dependencies": {
     "babel-preset-env": "1.7.0",
-    "book-length": "1.2.0",
-    "browser-sync": "2.26.7",
-    "chalk": "2.4.2",
-    "del": "5.1.0",
+    "book-length": "1.2.1",
+    "browser-sync": "2.26.13",
+    "chalk": "4.1.0",
+    "del": "6.0.0",
     "delayed": "2.0.0",
-    "fs-extra": "8.1.0",
+    "fs-extra": "9.0.1",
     "gulp": "4.0.2",
     "gulp-babel": "8.0.0",
     "gulp-compile-handlebars": "0.6.1",
@@ -31,12 +31,12 @@
     "gulp-haml": "1.0.1",
     "gulp-if": "3.0.0",
     "gulp-less": "4.0.1",
-    "gulp-markdown": "5.0.0",
-    "gulp-postcss": "8.0.0",
-    "gulp-sass": "4.0.2",
+    "gulp-markdown": "5.1.0",
+    "gulp-postcss": "9.0.0",
+    "gulp-sass": "4.1.0",
     "gulp-stylus": "2.7.0",
     "js-cookie": "2.2.1",
     "path": "0.12.7",
-    "shelljs": "0.8.3"
+    "shelljs": "0.8.4"
   }
 }
